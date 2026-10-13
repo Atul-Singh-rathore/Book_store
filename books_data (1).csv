@@ -1,0 +1,346 @@
+book_id,title,author,genre,published_year,price,stock_quantity,rating,publisher
+1,Shadow of Mountain,Robert Brown,Fantasy,1967,39.45,356,4.5,HarperCollins
+2,Beyond the River,James Smith,Mystery,1977,19.3,318,3.1,Macmillan
+3,Return of River,Patricia Davis,Self-Help,1985,42.37,13,4.5,Simon & Schuster
+4,Rise of Time,Robert Williams,Fantasy,1993,14.08,204,3.2,Oxford University Press
+5,Beyond the Star,James Davis,Thriller,1965,48.91,203,3.2,Hachette
+6,Beyond the Time,Elizabeth Brown,Mystery,1955,36.44,405,3.6,HarperCollins
+7,Echoes of Ocean,Michael Jones,History,1996,16.5,191,3.4,Hachette
+8,Shadow of Dawn,John Rodriguez,Fantasy,1970,28.48,148,5.0,Macmillan
+9,Kingdom of Mountain,Patricia Smith,Non-Fiction,2001,20.7,118,4.8,Oxford University Press
+10,Echoes of Dream,Michael Davis,Sci-Fi,1983,15.58,391,4.1,Hachette
+11,Beyond the River 11,Elizabeth Miller,Non-Fiction,1978,49.88,80,4.0,HarperCollins
+12,The Silent Ocean,John Williams,Biography,1958,25.38,315,5.0,Hachette
+13,Return of Mountain,Mary Rodriguez,Romance,1993,14.45,232,3.3,Penguin Books
+14,Secret of Night,John Rodriguez,Mystery,1988,43.66,269,4.2,Simon & Schuster
+15,Kingdom of Forest,William Rodriguez,Fiction,1991,29.53,67,4.9,Hachette
+16,Echoes of Mountain,Patricia Martinez,Mystery,1960,39.27,427,3.1,Simon & Schuster
+17,Chronicles of Dream,William Williams,Romance,2017,44.89,226,4.9,Macmillan
+18,Secret of River,Jennifer Davis,Thriller,2007,14.83,125,3.1,Penguin Books
+19,Beyond the Night,Patricia Martinez,Fantasy,1950,12.83,333,3.1,HarperCollins
+20,The Silent Time,Mary Rodriguez,Fantasy,1985,36.75,119,4.1,Vintage
+21,Echoes of Dream 21,Michael Brown,Mystery,1962,36.35,191,3.8,Vintage
+22,The Silent Ocean 22,James Miller,Non-Fiction,1963,19.94,107,4.1,Simon & Schuster
+23,Rise of Forest,Robert Davis,Fantasy,1959,27.72,451,4.7,HarperCollins
+24,The Silent Night,James Johnson,Fantasy,1971,26.25,256,3.4,Random House
+25,The Silent Forest,Michael Smith,Biography,1983,47.05,411,3.9,Random House
+26,Return of Dream,John Brown,Romance,1977,48.74,306,4.5,Penguin Books
+27,Kingdom of Mountain 27,James Martinez,History,2014,46.77,281,3.3,HarperCollins
+28,Chronicles of Ocean,Elizabeth Johnson,Fantasy,2001,14.79,465,4.1,Penguin Books
+29,Beyond the Ocean,Michael Martinez,Self-Help,2016,22.64,143,3.4,Oxford University Press
+30,Echoes of Star,Michael Williams,Romance,2008,22.64,394,4.9,Penguin Books
+31,Fall of Dawn,Elizabeth Johnson,Mystery,2018,18.52,145,3.3,Oxford University Press
+32,Shadow of City,Jennifer Jones,Sci-Fi,2006,43.34,370,3.6,Penguin Books
+33,Return of Star,Mary Williams,Romance,1964,45.58,390,4.1,Hachette
+34,Secret of Dawn,Patricia Garcia,Fantasy,1983,30.21,138,4.8,Penguin Books
+35,Shadow of River,Robert Smith,Fiction,1992,40.83,336,5.0,Simon & Schuster
+36,Fall of Night,Michael Rodriguez,Fiction,1964,13.0,462,4.4,Simon & Schuster
+37,Return of Mountain 37,Jennifer Martinez,Thriller,1968,27.18,31,3.6,Penguin Books
+38,Kingdom of City,Patricia Johnson,Non-Fiction,2021,45.36,218,4.9,Simon & Schuster
+39,Echoes of Forest,John Miller,Fiction,1972,39.45,180,4.6,Random House
+40,Echoes of Star 40,John Johnson,Biography,1954,44.33,123,3.4,Vintage
+41,Kingdom of Star,Patricia Brown,Fiction,1974,25.93,152,4.7,Hachette
+42,Kingdom of Night,Michael Rodriguez,Non-Fiction,1953,14.6,143,3.4,Hachette
+43,The Silent Ocean 43,Elizabeth Miller,Non-Fiction,1990,27.45,271,3.2,Macmillan
+44,Secret of Mountain,Michael Smith,Thriller,2018,37.46,491,4.5,Macmillan
+45,Kingdom of River,Mary Garcia,Self-Help,1990,36.53,73,4.4,Hachette
+46,Return of Star 46,Michael Garcia,Biography,1987,32.17,108,3.8,Random House
+47,Chronicles of Dawn,Elizabeth Jones,Biography,2020,43.34,165,3.6,Random House
+48,Beyond the Dawn,Jennifer Davis,History,2006,37.02,271,3.9,Simon & Schuster
+49,Shadow of Star,William Martinez,Non-Fiction,1961,42.73,394,3.5,Hachette
+50,Echoes of City,John Smith,Fiction,1981,49.35,322,4.7,HarperCollins
+51,Fall of River,Elizabeth Brown,Biography,2013,25.98,85,4.3,Penguin Books
+52,Shadow of River 52,Patricia Williams,Thriller,2009,12.0,137,4.8,HarperCollins
+53,Fall of Forest,Linda Rodriguez,Thriller,1990,47.99,466,3.9,Random House
+54,Return of Dream 54,John Davis,History,1983,40.06,440,4.3,Vintage
+55,Echoes of Star 55,Linda Johnson,Romance,1980,20.86,173,4.8,HarperCollins
+56,Chronicles of Forest,Patricia Miller,Sci-Fi,1977,12.56,218,3.7,Vintage
+57,Rise of Mountain,Patricia Miller,Biography,2024,47.83,20,4.7,Random House
+58,Fall of Mountain,Jennifer Jones,Biography,2003,31.52,386,4.1,Macmillan
+59,Fall of City,Robert Miller,History,1953,25.54,352,4.4,Random House
+60,Chronicles of Dream 60,John Martinez,Thriller,1953,46.27,313,4.1,Penguin Books
+61,Shadow of River 61,John Davis,Sci-Fi,1956,20.4,177,3.4,Oxford University Press
+62,Kingdom of River 62,Robert Miller,Romance,1960,28.8,393,4.1,Oxford University Press
+63,Echoes of Ocean 63,James Smith,Fantasy,1975,43.56,328,3.3,Simon & Schuster
+64,Fall of Ocean,Elizabeth Brown,History,1982,40.67,95,4.2,HarperCollins
+65,Chronicles of Star,Mary Martinez,Fiction,1989,33.02,474,4.9,Random House
+66,Echoes of Ocean 66,Elizabeth Brown,Mystery,1988,44.0,317,4.6,Penguin Books
+67,Kingdom of Night 67,Michael Garcia,Mystery,2014,35.89,16,4.7,Vintage
+68,Shadow of River 68,Jennifer Davis,Sci-Fi,2005,17.04,277,4.9,Hachette
+69,Beyond the Night 69,Linda Davis,Biography,2025,20.73,446,3.5,HarperCollins
+70,Secret of Dream,Patricia Davis,Self-Help,1998,23.45,263,4.7,Simon & Schuster
+71,Fall of City 71,Jennifer Jones,Non-Fiction,1985,45.2,369,4.8,Penguin Books
+72,Return of City,Mary Brown,Biography,2012,32.2,133,4.4,Vintage
+73,Fall of Mountain 73,Mary Jones,Fantasy,2001,37.66,166,4.3,Oxford University Press
+74,Fall of Night 74,William Garcia,Biography,2020,23.22,369,3.9,Hachette
+75,Secret of City,Mary Brown,Non-Fiction,1965,39.71,496,4.5,Simon & Schuster
+76,Echoes of City 76,Linda Jones,Self-Help,2017,33.86,61,4.7,Hachette
+77,Echoes of Time,John Jones,Fiction,2018,15.05,33,4.9,Hachette
+78,Chronicles of Dream 78,Mary Smith,Self-Help,1986,28.77,235,3.7,Penguin Books
+79,Secret of Dream 79,Mary Johnson,Biography,2012,12.95,332,4.4,Simon & Schuster
+80,Chronicles of Dawn 80,Robert Johnson,Fantasy,1965,32.31,223,4.2,Macmillan
+81,Return of River 81,Linda Davis,Romance,2025,49.59,166,4.1,Penguin Books
+82,Beyond the Ocean 82,Patricia Brown,Romance,1960,16.27,98,4.1,Simon & Schuster
+83,The Silent River,Linda Martinez,History,1987,11.3,157,4.4,Vintage
+84,Shadow of City 84,Robert Martinez,Fantasy,2004,14.58,125,4.3,Hachette
+85,Chronicles of Ocean 85,James Williams,Romance,2022,46.84,234,3.2,Hachette
+86,Rise of Star,William Rodriguez,History,2006,13.21,30,4.8,Oxford University Press
+87,Beyond the Star 87,James Johnson,Fantasy,2023,33.47,20,5.0,Hachette
+88,Beyond the Mountain,John Davis,Thriller,2006,46.63,102,5.0,Random House
+89,Fall of Ocean 89,Linda Garcia,Biography,1992,22.83,63,4.7,Oxford University Press
+90,Rise of Dream,Robert Miller,Thriller,1954,28.18,171,3.5,HarperCollins
+91,Rise of Night,James Rodriguez,History,2002,12.16,275,3.7,Vintage
+92,Fall of Mountain 92,Patricia Jones,Thriller,1966,47.1,234,4.8,Vintage
+93,Shadow of Mountain 93,Elizabeth Brown,Sci-Fi,1989,32.02,292,3.8,Macmillan
+94,Shadow of Dream,Mary Williams,History,1987,30.34,149,3.8,Vintage
+95,Fall of City 95,Linda Rodriguez,Sci-Fi,1999,17.61,316,4.0,Simon & Schuster
+96,Shadow of Star 96,Michael Garcia,Thriller,1984,42.81,154,4.5,Vintage
+97,Chronicles of Dream 97,William Davis,Non-Fiction,1992,32.07,288,3.8,Oxford University Press
+98,Echoes of City 98,Elizabeth Miller,Fantasy,2002,11.74,391,3.9,Random House
+99,Rise of Forest 99,Linda Smith,Sci-Fi,2014,48.6,179,4.7,Vintage
+100,Shadow of Night,Linda Smith,Sci-Fi,2002,44.83,89,3.1,Hachette
+101,Kingdom of Dawn,Michael Johnson,Non-Fiction,2018,25.19,172,4.3,Vintage
+102,Return of Mountain 102,Elizabeth Johnson,Fantasy,1986,49.89,392,3.2,HarperCollins
+103,Shadow of Dream 103,John Jones,Fiction,1955,22.96,38,3.6,Oxford University Press
+104,Rise of Forest 104,Patricia Rodriguez,Biography,2022,37.26,102,3.3,HarperCollins
+105,Beyond the River 105,Elizabeth Brown,History,2024,15.71,246,4.3,Vintage
+106,Secret of Mountain 106,Linda Jones,Thriller,1970,12.94,493,3.7,Hachette
+107,Rise of Star 107,Linda Jones,Fantasy,1999,44.12,64,3.5,Oxford University Press
+108,Beyond the Star 108,Robert Smith,Biography,1985,10.31,452,4.4,Penguin Books
+109,Beyond the Dream,Robert Brown,Self-Help,1995,18.75,107,4.2,Simon & Schuster
+110,Shadow of Mountain 110,Robert Davis,Fiction,2024,24.58,77,3.2,Hachette
+111,Kingdom of River 111,John Brown,Sci-Fi,2019,45.05,197,4.1,Hachette
+112,Chronicles of Star 112,Linda Jones,Non-Fiction,1964,28.72,48,3.3,Macmillan
+113,Rise of Night 113,Jennifer Johnson,Biography,1951,20.57,73,3.9,Hachette
+114,Beyond the River 114,Jennifer Johnson,Fantasy,2010,10.99,462,4.9,Oxford University Press
+115,Beyond the City,Mary Davis,Romance,2002,14.66,33,4.9,Hachette
+116,Fall of Ocean 116,Mary Brown,Thriller,1967,25.54,199,4.3,Random House
+117,Beyond the Forest,Michael Johnson,History,2002,47.55,153,3.1,Oxford University Press
+118,Echoes of Dream 118,Linda Brown,Non-Fiction,1962,49.23,198,4.1,Oxford University Press
+119,The Silent River 119,Robert Brown,Mystery,2008,13.66,118,4.3,Penguin Books
+120,The Silent Time 120,Patricia Williams,Self-Help,1976,12.73,401,4.1,Macmillan
+121,Echoes of Time 121,John Martinez,Fiction,1985,44.33,84,5.0,Hachette
+122,Chronicles of Ocean 122,James Williams,Fiction,1995,41.59,131,4.2,Penguin Books
+123,Chronicles of Star 123,James Williams,Biography,2017,14.54,42,4.0,Oxford University Press
+124,Return of Dawn,Mary Davis,Thriller,1978,47.81,32,4.5,Hachette
+125,Fall of Mountain 125,James Davis,Biography,2004,37.43,261,4.4,Vintage
+126,Shadow of Ocean,Jennifer Martinez,Sci-Fi,1958,15.04,329,4.3,Oxford University Press
+127,Rise of Dawn,William Jones,History,2014,34.21,60,4.6,HarperCollins
+128,Return of City 128,Michael Davis,Fantasy,2002,23.55,242,3.8,HarperCollins
+129,Kingdom of River 129,Jennifer Jones,Non-Fiction,1969,37.46,252,3.1,HarperCollins
+130,Shadow of River 130,Mary Garcia,Sci-Fi,2021,12.39,499,4.1,Oxford University Press
+131,Shadow of River 131,Jennifer Miller,Fiction,1986,34.01,190,3.2,Macmillan
+132,Chronicles of Dream 132,Patricia Johnson,Non-Fiction,2021,24.69,400,3.6,Macmillan
+133,Rise of Night 133,Elizabeth Martinez,Thriller,1953,34.35,346,4.7,Hachette
+134,The Silent Forest 134,Robert Jones,Non-Fiction,1994,10.23,455,3.3,Random House
+135,Shadow of Forest,James Johnson,Thriller,1977,25.04,242,3.7,Oxford University Press
+136,Secret of Time,Elizabeth Martinez,Mystery,1956,16.21,396,4.2,HarperCollins
+137,Secret of Dream 137,Michael Davis,Self-Help,2006,26.56,120,4.5,HarperCollins
+138,Kingdom of River 138,Mary Jones,Self-Help,2012,31.07,167,3.1,Random House
+139,Beyond the Mountain 139,James Brown,Romance,1977,40.68,401,3.5,Oxford University Press
+140,Shadow of Mountain 140,Linda Miller,Sci-Fi,1966,25.2,370,3.5,Oxford University Press
+141,Shadow of River 141,James Miller,Fiction,2008,46.84,451,3.6,Random House
+142,Beyond the River 142,Michael Jones,Mystery,2001,10.82,176,3.3,Vintage
+143,Kingdom of Ocean,Michael Johnson,Fantasy,2005,33.54,278,3.2,Hachette
+144,Kingdom of City 144,Jennifer Williams,Mystery,2015,35.32,281,4.0,Oxford University Press
+145,Kingdom of Forest 145,Patricia Johnson,Sci-Fi,1982,17.88,318,3.3,HarperCollins
+146,Chronicles of Dream 146,Linda Martinez,Self-Help,2007,37.24,461,4.1,Oxford University Press
+147,Kingdom of Forest 147,Linda Johnson,History,2006,35.25,417,3.5,Penguin Books
+148,Kingdom of Night 148,Mary Jones,History,2007,11.49,198,4.7,HarperCollins
+149,Shadow of Dawn 149,Elizabeth Rodriguez,Biography,2009,33.2,498,4.6,Penguin Books
+150,Fall of Dawn 150,Patricia Garcia,Self-Help,2010,30.04,500,3.1,HarperCollins
+151,Kingdom of Ocean 151,William Williams,Fiction,1981,38.29,234,4.0,Simon & Schuster
+152,Kingdom of Time,Robert Miller,Biography,1993,37.15,36,4.6,Oxford University Press
+153,Shadow of Time,Mary Rodriguez,Biography,1986,20.07,446,4.3,Simon & Schuster
+154,Kingdom of Ocean 154,Elizabeth Williams,Non-Fiction,1989,48.7,367,4.3,Simon & Schuster
+155,Beyond the Ocean 155,Robert Rodriguez,Biography,1992,42.52,353,4.4,HarperCollins
+156,Rise of Night 156,Jennifer Smith,Non-Fiction,1989,17.2,119,3.7,Vintage
+157,Echoes of City 157,John Williams,Mystery,1987,43.77,61,4.0,Penguin Books
+158,Kingdom of Dawn 158,John Martinez,Biography,1969,16.48,435,4.4,Simon & Schuster
+159,Fall of Mountain 159,Michael Garcia,Fantasy,2006,34.41,395,4.5,Vintage
+160,Echoes of Night,Patricia Jones,History,1974,24.7,494,4.1,Vintage
+161,Fall of Star,Michael Rodriguez,Thriller,2003,48.64,428,3.4,Simon & Schuster
+162,Secret of Mountain 162,Linda Garcia,Thriller,1963,38.45,274,4.7,Hachette
+163,Shadow of Forest 163,Robert Davis,Thriller,1968,43.23,56,4.9,Macmillan
+164,Fall of Time,James Miller,Fiction,2000,30.07,130,3.8,HarperCollins
+165,Kingdom of City 165,James Garcia,Mystery,1992,41.65,80,3.1,Vintage
+166,Chronicles of Dream 166,Linda Martinez,Fiction,1960,10.75,120,4.7,Random House
+167,Shadow of Star 167,Patricia Jones,Mystery,1956,19.53,337,4.6,Vintage
+168,Shadow of Ocean 168,Linda Martinez,Thriller,1952,35.27,304,3.5,Simon & Schuster
+169,Secret of River 169,James Martinez,Non-Fiction,1980,32.82,105,4.3,HarperCollins
+170,Return of Time,Mary Rodriguez,Thriller,2014,41.45,269,4.1,Random House
+171,Fall of Mountain 171,Michael Garcia,Romance,1952,24.27,44,3.7,HarperCollins
+172,Beyond the Time 172,John Smith,Non-Fiction,2019,23.53,339,3.4,Vintage
+173,Fall of Forest 173,John Johnson,History,1954,21.73,32,4.6,Penguin Books
+174,Kingdom of Star 174,William Miller,Thriller,2010,20.12,395,4.3,Hachette
+175,Kingdom of Mountain 175,Jennifer Jones,Mystery,1997,27.47,214,4.5,Random House
+176,Kingdom of Forest 176,Linda Davis,Non-Fiction,2016,20.66,52,4.5,HarperCollins
+177,Rise of Dawn 177,John Rodriguez,Romance,1991,14.09,177,4.3,Hachette
+178,Fall of Dawn 178,Michael Williams,History,1994,27.88,382,4.7,Oxford University Press
+179,Beyond the River 179,Robert Smith,Mystery,2001,24.52,420,4.5,Simon & Schuster
+180,The Silent Forest 180,Elizabeth Davis,Fiction,1966,12.68,408,4.3,Oxford University Press
+181,Rise of Dawn 181,James Martinez,Sci-Fi,2007,47.94,200,3.9,HarperCollins
+182,Beyond the Forest 182,William Garcia,Biography,1990,35.97,137,4.9,Penguin Books
+183,Chronicles of Dream 183,William Miller,Thriller,1965,20.46,143,4.4,Macmillan
+184,Beyond the Star 184,Linda Brown,Mystery,1967,44.1,241,3.3,Vintage
+185,Shadow of Time 185,Jennifer Johnson,Thriller,2019,21.6,163,4.7,Simon & Schuster
+186,Kingdom of Night 186,Patricia Johnson,Fantasy,1967,19.46,262,3.1,Oxford University Press
+187,Fall of Night 187,John Martinez,Mystery,1958,22.36,377,4.4,Random House
+188,Rise of Dawn 188,Mary Williams,Non-Fiction,1959,27.99,358,4.0,Simon & Schuster
+189,Return of Dawn 189,John Williams,Biography,2014,46.42,38,4.7,Simon & Schuster
+190,Secret of Forest,John Garcia,Fantasy,1994,47.89,275,4.8,HarperCollins
+191,Secret of City 191,William Jones,Sci-Fi,1988,34.57,57,4.0,Simon & Schuster
+192,Beyond the Dawn 192,John Williams,Self-Help,1993,43.69,298,3.1,Penguin Books
+193,Shadow of Mountain 193,Elizabeth Jones,Fantasy,2023,26.65,337,3.1,Hachette
+194,Secret of Dream 194,Patricia Miller,Romance,2008,12.91,40,3.3,Random House
+195,Fall of Dream,Patricia Garcia,Self-Help,1968,22.49,377,3.6,Oxford University Press
+196,Rise of Forest 196,Jennifer Rodriguez,Thriller,1963,22.75,248,3.2,Vintage
+197,Echoes of Forest 197,Mary Smith,Romance,1999,44.56,224,3.5,Simon & Schuster
+198,Kingdom of Dawn 198,Jennifer Brown,Sci-Fi,2013,49.83,249,4.0,Hachette
+199,Fall of Mountain 199,Mary Miller,Thriller,2008,48.66,120,4.2,Penguin Books
+200,The Silent Star,Linda Martinez,History,1986,31.46,443,3.2,Simon & Schuster
+201,Secret of Time 201,Michael Garcia,Fiction,2001,12.04,297,3.4,Hachette
+202,Shadow of River 202,William Davis,Thriller,1985,43.0,329,4.4,HarperCollins
+203,Chronicles of Ocean 203,Michael Garcia,Non-Fiction,2021,47.55,396,3.3,Random House
+204,Return of Mountain 204,James Smith,Sci-Fi,1992,42.15,275,3.9,Simon & Schuster
+205,Kingdom of Dawn 205,Jennifer Williams,Biography,1988,33.74,269,4.7,Vintage
+206,Beyond the Star 206,Linda Smith,Non-Fiction,1992,36.94,223,4.2,Penguin Books
+207,Beyond the Dream 207,Robert Martinez,Self-Help,1979,38.85,308,4.0,Random House
+208,Chronicles of City,James Martinez,Mystery,1974,10.75,170,3.8,Random House
+209,Echoes of River,William Martinez,History,1957,38.22,275,3.4,Oxford University Press
+210,Fall of Night 210,Michael Garcia,Sci-Fi,2008,46.47,185,4.1,Hachette
+211,Beyond the Dream 211,Patricia Brown,Romance,2021,21.93,492,4.9,Hachette
+212,Secret of City 212,Linda Garcia,History,1994,32.41,488,4.6,Hachette
+213,Secret of Ocean,Elizabeth Rodriguez,Biography,2000,42.73,498,4.5,Simon & Schuster
+214,Secret of Mountain 214,Robert Johnson,Non-Fiction,2006,36.23,392,4.0,Macmillan
+215,Return of Star 215,William Jones,Sci-Fi,1963,34.62,310,3.5,Penguin Books
+216,Return of City 216,Patricia Smith,Mystery,2002,23.2,251,3.2,Simon & Schuster
+217,The Silent Night 217,John Miller,History,2011,36.01,397,4.9,Oxford University Press
+218,Secret of Mountain 218,Mary Martinez,Fantasy,2018,39.54,445,4.9,Simon & Schuster
+219,Rise of Forest 219,James Miller,History,1973,47.45,456,4.9,Penguin Books
+220,The Silent Star 220,Elizabeth Martinez,Mystery,1992,21.37,338,4.1,Vintage
+221,Chronicles of Night,Linda Jones,Fantasy,1964,23.22,384,3.9,Hachette
+222,Chronicles of Mountain,Jennifer Jones,Self-Help,1974,17.01,448,4.3,Random House
+223,Rise of Night 223,Jennifer Johnson,Biography,1962,17.38,81,4.0,Macmillan
+224,The Silent Star 224,Michael Brown,History,1984,48.15,164,4.2,Penguin Books
+225,Secret of Time 225,Patricia Smith,Mystery,2009,22.26,217,4.4,Hachette
+226,Shadow of Star 226,Jennifer Martinez,Fantasy,1978,48.28,254,3.3,Oxford University Press
+227,Rise of Night 227,Linda Rodriguez,Fantasy,1981,37.2,315,4.7,HarperCollins
+228,Return of Dream 228,William Garcia,Mystery,2022,14.48,434,4.1,Macmillan
+229,Beyond the Night 229,John Williams,Non-Fiction,2016,27.66,358,3.4,Vintage
+230,Shadow of Night 230,Linda Smith,History,1966,30.52,243,4.1,Vintage
+231,Secret of Mountain 231,Michael Jones,Fiction,1977,33.12,33,3.8,HarperCollins
+232,Return of Mountain 232,Mary Davis,Fiction,1986,26.34,403,3.3,Random House
+233,Kingdom of River 233,Linda Miller,Biography,1960,37.3,348,4.7,Simon & Schuster
+234,Kingdom of Ocean 234,John Rodriguez,Biography,2017,15.08,124,4.7,Penguin Books
+235,Secret of Dream 235,William Miller,Thriller,1998,42.92,136,3.9,Simon & Schuster
+236,Secret of City 236,Mary Smith,Biography,1952,19.62,44,3.2,Penguin Books
+237,Fall of Dawn 237,James Brown,Fiction,2001,27.55,286,3.4,Penguin Books
+238,Chronicles of Night 238,Robert Brown,Self-Help,1990,33.09,405,4.3,Oxford University Press
+239,Echoes of Star 239,John Rodriguez,Fantasy,2002,22.01,41,4.1,Simon & Schuster
+240,Rise of Night 240,Linda Smith,Non-Fiction,1998,41.42,173,4.4,Random House
+241,Chronicles of Star 241,Michael Williams,Thriller,2010,19.63,125,3.6,Simon & Schuster
+242,Fall of Mountain 242,William Miller,Biography,2021,31.19,208,3.5,Macmillan
+243,Kingdom of Ocean 243,Linda Garcia,Mystery,2018,38.97,107,3.1,Random House
+244,Beyond the Dawn 244,James Johnson,Fantasy,2025,38.96,296,3.4,Macmillan
+245,Kingdom of Star 245,James Brown,Fantasy,1965,39.87,396,4.0,Macmillan
+246,Beyond the City 246,Michael Brown,Thriller,1991,41.01,204,3.9,Oxford University Press
+247,Secret of Star,Jennifer Rodriguez,History,2009,13.93,379,3.9,Oxford University Press
+248,Echoes of Time 248,Jennifer Miller,Fiction,2022,44.55,389,3.3,Hachette
+249,Return of Dawn 249,Elizabeth Miller,Romance,1969,17.84,127,3.8,Macmillan
+250,Fall of Night 250,Jennifer Jones,History,2012,28.42,385,4.6,Simon & Schuster
+251,Chronicles of Night 251,Linda Williams,Thriller,1957,30.95,439,4.7,Penguin Books
+252,The Silent River 252,John Brown,Mystery,1969,10.36,268,3.9,Penguin Books
+253,Beyond the Dawn 253,Linda Davis,Fiction,1950,31.28,220,3.0,Hachette
+254,Return of Star 254,James Rodriguez,Biography,1972,14.27,59,4.0,Macmillan
+255,Echoes of Dawn,William Jones,Non-Fiction,1984,41.79,50,3.7,Random House
+256,Fall of Dawn 256,Patricia Brown,Romance,1960,36.14,449,4.3,Penguin Books
+257,Shadow of River 257,Michael Miller,Thriller,2010,12.23,14,4.4,HarperCollins
+258,Fall of River 258,Jennifer Martinez,Mystery,2017,46.76,127,3.4,Vintage
+259,Secret of Mountain 259,Mary Jones,Thriller,2022,36.31,101,4.9,Oxford University Press
+260,The Silent City,Elizabeth Williams,Biography,1959,21.96,298,3.5,Random House
+261,Return of Time 261,Michael Williams,Mystery,2014,39.81,187,3.1,Random House
+262,Echoes of Ocean 262,Jennifer Martinez,Self-Help,2000,48.75,177,3.1,Hachette
+263,Fall of Dream 263,Patricia Garcia,Thriller,1998,27.26,358,4.2,Random House
+264,Shadow of Dawn 264,Robert Brown,Mystery,1960,20.71,204,4.4,Simon & Schuster
+265,Rise of Time 265,Jennifer Johnson,Mystery,1950,47.71,237,3.7,Hachette
+266,Shadow of Forest 266,Mary Williams,Biography,2007,32.27,272,3.8,Penguin Books
+267,Shadow of Time 267,William Johnson,Self-Help,1991,44.54,16,3.6,Random House
+268,Shadow of Night 268,Patricia Martinez,Thriller,1971,37.4,96,3.3,Hachette
+269,Secret of Dream 269,John Johnson,Sci-Fi,2005,21.03,163,4.0,HarperCollins
+270,Kingdom of Star 270,Patricia Davis,Self-Help,1975,28.3,79,3.6,Random House
+271,Kingdom of Dawn 271,Michael Garcia,History,1992,27.21,431,4.7,Simon & Schuster
+272,Secret of Time 272,Elizabeth Brown,History,1990,17.1,213,4.9,Hachette
+273,Fall of Dawn 273,Patricia Garcia,Biography,1985,42.65,211,3.7,Macmillan
+274,Beyond the Night 274,John Rodriguez,Fiction,2009,47.71,117,3.9,Hachette
+275,Shadow of River 275,Linda Williams,Romance,1980,20.1,88,4.4,Random House
+276,Shadow of Dream 276,Elizabeth Davis,Self-Help,2001,31.36,482,4.8,Random House
+277,Return of Mountain 277,Jennifer Rodriguez,Self-Help,1960,14.36,137,4.3,Oxford University Press
+278,Chronicles of Dawn 278,James Martinez,Biography,1992,48.62,230,3.2,HarperCollins
+279,Secret of City 279,William Rodriguez,Thriller,2024,37.5,123,3.9,Random House
+280,Fall of Dawn 280,William Williams,Non-Fiction,1953,29.3,161,3.8,HarperCollins
+281,Shadow of Forest 281,Jennifer Jones,Non-Fiction,2008,41.36,276,4.0,Vintage
+282,Shadow of Dream 282,Linda Garcia,Mystery,1988,11.78,373,3.2,Oxford University Press
+283,Shadow of Forest 283,Patricia Rodriguez,Sci-Fi,2020,16.4,296,3.9,Vintage
+284,Echoes of River 284,John Williams,Biography,2000,11.16,324,4.8,Vintage
+285,Beyond the River 285,Michael Smith,Fantasy,1976,21.12,370,4.6,HarperCollins
+286,Beyond the Ocean 286,William Williams,Non-Fiction,1991,17.87,68,3.5,Vintage
+287,Return of Time 287,Elizabeth Miller,Self-Help,2000,33.47,188,3.7,Vintage
+288,Beyond the Forest 288,Robert Martinez,Self-Help,1960,36.87,170,3.2,Hachette
+289,Shadow of Forest 289,Jennifer Williams,Thriller,1999,26.72,80,4.1,Random House
+290,Chronicles of Dream 290,William Williams,Thriller,1971,29.58,81,3.4,Vintage
+291,Beyond the Mountain 291,Jennifer Smith,History,1967,17.8,206,4.9,Vintage
+292,Rise of Dream 292,Michael Davis,History,1971,13.3,25,4.6,Macmillan
+293,Secret of Mountain 293,Robert Brown,Thriller,1986,16.72,244,4.1,Vintage
+294,Return of Night,Mary Martinez,Mystery,1984,40.99,431,5.0,Penguin Books
+295,Fall of Night 295,Patricia Miller,Mystery,1981,21.9,26,3.9,Oxford University Press
+296,Shadow of Dream 296,Mary Brown,Fantasy,2025,37.56,450,4.4,Random House
+297,Chronicles of Dawn 297,John Brown,Fantasy,1957,32.79,282,3.6,Simon & Schuster
+298,Kingdom of Star 298,Robert Martinez,Romance,2015,49.41,357,4.6,Simon & Schuster
+299,Rise of Mountain 299,Robert Williams,Sci-Fi,1981,15.84,174,4.7,Random House
+300,Fall of Forest 300,Elizabeth Jones,Biography,1998,28.07,334,4.6,HarperCollins
+301,Rise of Night 301,Robert Garcia,History,2012,23.08,11,4.7,HarperCollins
+302,Fall of Time 302,Mary Rodriguez,Biography,1977,48.72,432,3.4,Hachette
+303,Kingdom of Star 303,Jennifer Rodriguez,Self-Help,1966,32.64,258,4.6,Penguin Books
+304,The Silent Ocean 304,Linda Smith,Mystery,1970,27.64,10,5.0,Random House
+305,Echoes of Forest 305,Robert Williams,Romance,1961,36.17,138,3.2,Simon & Schuster
+306,The Silent River 306,Robert Brown,Biography,1961,38.14,10,3.4,HarperCollins
+307,Chronicles of Dawn 307,Patricia Rodriguez,History,1951,10.31,185,4.6,Random House
+308,Chronicles of Dream 308,Mary Brown,Biography,1961,39.22,62,3.2,Oxford University Press
+309,Secret of Forest 309,Michael Williams,Sci-Fi,1958,31.21,14,4.2,Simon & Schuster
+310,Fall of Time 310,Patricia Williams,Biography,2006,44.39,54,4.8,Simon & Schuster
+311,Shadow of Dawn 311,Michael Garcia,Biography,1990,41.63,136,3.6,HarperCollins
+312,Echoes of Night 312,Elizabeth Martinez,Self-Help,1986,41.15,363,3.1,Hachette
+313,Echoes of Night 313,Elizabeth Rodriguez,Fantasy,2000,21.81,37,4.6,Macmillan
+314,Fall of River 314,Mary Brown,History,1959,31.12,16,5.0,Oxford University Press
+315,Chronicles of River,Elizabeth Miller,Non-Fiction,2019,37.31,400,3.9,HarperCollins
+316,The Silent Dawn,Mary Smith,Romance,1977,11.58,40,4.9,Random House
+317,Return of Star 317,William Miller,Biography,2001,13.29,284,4.1,Simon & Schuster
+318,Secret of Ocean 318,Robert Johnson,Thriller,1976,48.96,89,4.1,Random House
+319,Beyond the Ocean 319,Robert Miller,Fantasy,1957,19.77,483,3.9,Vintage
+320,Beyond the Dawn 320,James Jones,Sci-Fi,1965,10.5,80,4.4,Simon & Schuster
+321,Fall of Time 321,William Rodriguez,Romance,1971,24.86,393,4.6,Hachette
+322,Shadow of Mountain 322,Jennifer Miller,Romance,2017,12.54,374,5.0,HarperCollins
+323,Fall of Dream 323,William Garcia,Fiction,2013,44.36,95,3.7,Hachette
+324,Shadow of Dawn 324,Mary Brown,Thriller,1950,11.75,451,3.0,Penguin Books
+325,Fall of Time 325,Michael Williams,Sci-Fi,1954,32.1,477,4.4,Random House
+326,Echoes of Time 326,Patricia Miller,Non-Fiction,1984,43.03,302,3.7,Penguin Books
+327,Chronicles of City 327,William Smith,Biography,1958,45.07,453,3.6,Hachette
+328,Kingdom of Ocean 328,William Davis,Fiction,1997,18.02,298,4.6,Macmillan
+329,Fall of Time 329,Elizabeth Davis,Fantasy,2019,40.41,135,3.3,Random House
+330,The Silent City 330,William Garcia,Fiction,1992,10.05,346,3.8,Hachette
+331,Shadow of City 331,William Brown,Biography,2012,48.44,82,4.4,HarperCollins
+332,The Silent City 332,William Miller,Non-Fiction,2008,48.97,53,4.2,Simon & Schuster
+333,Rise of Ocean,Elizabeth Martinez,Fiction,2005,36.49,76,3.5,Hachette
+334,Kingdom of River 334,Jennifer Garcia,History,1984,19.33,493,3.4,HarperCollins
+335,Chronicles of Ocean 335,John Davis,History,1990,26.25,284,3.7,Macmillan
+336,Fall of Star 336,Linda Jones,Mystery,1961,16.29,361,3.6,Penguin Books
+337,Echoes of Time 337,John Johnson,Fantasy,1995,25.84,35,4.4,Hachette
+338,Chronicles of Mountain 338,Michael Davis,Thriller,2020,19.98,246,3.2,Simon & Schuster
+339,Shadow of Mountain 339,James Brown,Sci-Fi,1975,42.94,200,4.4,HarperCollins
+340,Beyond the Dawn 340,Robert Johnson,Fiction,1958,17.9,340,3.9,Simon & Schuster
+341,Shadow of Time 341,Mary Smith,History,1956,16.71,303,3.9,Random House
+342,Fall of Mountain 342,Michael Miller,Sci-Fi,1995,18.58,105,3.5,Vintage
+343,Chronicles of Mountain 343,Elizabeth Martinez,Self-Help,1981,35.88,265,3.8,Vintage
+344,The Silent Ocean 344,Robert Miller,Sci-Fi,2003,17.97,462,4.6,Macmillan
+345,Return of Mountain 345,Michael Garcia,History,2019,41.25,186,4.8,Oxford University Press
